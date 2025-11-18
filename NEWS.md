@@ -1,3 +1,9 @@
+# MetaboCoreUtils 1.18
+
+## Changes in 1.18.1
+
+- Update unit tests.
+
 # MetaboCoreUtils 1.17
 
 ## Changes in 1.17.1
